@@ -21,7 +21,8 @@ class mainappTest {
 
     @Test
     void regPrice() {
-
+    //added some more data
+        //but this time in test
     }
 
 }
