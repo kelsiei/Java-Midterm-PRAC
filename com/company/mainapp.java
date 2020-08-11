@@ -44,9 +44,7 @@ public class mainapp {
 
             //Defining seats object and initializing constrcutor
 //Added some random comments
-            //Added some more new content
-
-
+            //branch1 chnages
             //Occupied line 50
             maintee mseat= new maintee(row,col);
             regular rseat = new regular(row, col);

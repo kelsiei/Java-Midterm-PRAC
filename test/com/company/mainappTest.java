@@ -21,7 +21,7 @@ class mainappTest {
 
     @Test
     void regPrice() {
-
+        //branch1 changes
     }
 
 }
