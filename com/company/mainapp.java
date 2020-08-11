@@ -43,7 +43,11 @@ public class mainapp {
             col = in.next().charAt(0);
 
             //Defining seats object and initializing constrcutor
+//Added some random comments
+            //Added some more new content
 
+
+            //Occupied line 50
             maintee mseat= new maintee(row,col);
             regular rseat = new regular(row, col);
             mseat.markX();
